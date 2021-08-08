@@ -6,4 +6,5 @@ A collection of MATLAB codes & raw data for "Structural dissection of human gluc
 -HSMT : Matlab package for analysis in Magnetic Tweezers (MT) measurements\
         (for sub-codes(as HSMT_subcodes.zip), please check the comment section of HSMT.m)\
 -FACS.zip : a collection of MATLAB codes for FACS data analysis\
--GLUT3_folding_dat : raw folding trace data of GLUT3
+-GLUT3_folding_dat : raw folding z-trace data of GLUT3\
+ (All data traces were obtained for 1.2kHz)
