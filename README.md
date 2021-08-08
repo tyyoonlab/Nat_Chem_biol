@@ -7,5 +7,7 @@ A collection of MATLAB codes & raw data for "Structural dissection of human gluc
         (for sub-codes(as HSMT_subcodes.zip), please check the comment section of HSMT.m)\
 -FACS.zip : a collection of MATLAB codes for FACS data analysis\
 -GLUT3_folding_dat : raw folding z-trace data of GLUT3\
- All data traces were obtained for 1.2kHz. The % of the lipids(DMPC(PC), DMPG(PG), DMPE(PE)) indicates mol percentage.\
+ All data traces were obtained for 1.2kHz.\
+ GLUT3 proteins were reconstituted in 1.3%(w/w) bicelle.
+ The % of the lipids(DMPC(PC), DMPG(PG), DMPE(PE)) indicates mol percentage.\
  If the specific mutant type is not indicated, experiments were all done with GLUT3(N43T) protein with no additional mutants.
