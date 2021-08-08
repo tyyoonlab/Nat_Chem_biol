@@ -1,6 +1,6 @@
 # Nat_Chem_biol (NCHEMB-A210813554)
 
-A collection of MATLAB codes for "Structural dissection of human glucose transporter folding reveals evolutionary balancing between foldability and functionality
+A collection of MATLAB codes & raw data for "Structural dissection of human glucose transporter folding reveals evolutionary balancing between foldability and functionality
 " paper, which is submitted for Nature Chemical Biology.
 
 -HSMT : Matlab package for analysis in Magnetic Tweezers (MT) measurements\
